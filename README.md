@@ -64,8 +64,3 @@ site: https://projetospotif.netlify.app/
 4. Envie para a branch (`git push origin feature/nome-da-funcionalidade`).
 5. Abra um pull request.
 
----
-
-Esse `README.md` fornece um guia claro sobre como configurar o projeto localmente e um breve resumo das ferramentas utilizadas.
-
-Se precisar de mais detalhes ou ajustes, fique à vontade para pedir!
