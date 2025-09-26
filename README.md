@@ -5,6 +5,7 @@
 Este projeto simula a interface do Spotify utilizando o React. O objetivo é fornecer uma experiência básica de interação com artistas e músicas, com funcionalidades de navegação e exibição de listas de artistas e músicas.
 
 ## Como acessar a página
+site: https://projetospotif.netlify.app/
 
 1. Clone este repositório para sua máquina local:
 
